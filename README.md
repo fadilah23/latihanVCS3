@@ -32,9 +32,17 @@ Setelah berhasil membuat akun baru dan login ke akun GitHub anda setelah itu bua
 
  <img width="452" alt="ss7" src="https://user-images.githubusercontent.com/115479946/196029167-7058d26c-bab3-432b-9222-4dfa4a7041e2.png">
 
-## 6. Menambahkan file baru pada Repository
+## 6. Clone Repository
+Clone repository untuk mengcopy repository server secara otomatis membuat satu directory sesuai dengan nama repositorynya 
+
+<img width="454" alt="ss9" src="https://user-images.githubusercontent.com/115479946/196031410-b5b20f71-0092-445f-9297-e8492b263b00.png">
+
+## 7. Menambahkan file baru pada Repository
 - Untuk menambahkan file yang baru saja dibuat gunakan perintah git add 
 - Lalu setelah berhasil ditambahkan untuk menyimpan perubahan yang ada kedalam repository local gunakan perintah git commit -m "Komentar "
+- lalu untuk mengirim perubahan pada local repository gunakan perintah git push -u origin main
 
 <img width="454" alt="ss8" src="https://user-images.githubusercontent.com/115479946/196030781-5b069f1c-62c0-4f96-87ef-cfa37868cbac.png">
 
+## 8. Lihat Hasilnya Pada Server Repository 
+<img width="960" alt="ss10" src="https://user-images.githubusercontent.com/115479946/196031624-1b3acfca-e13c-4d4c-a81d-e9d3eec9e9cb.png">
