@@ -3,7 +3,7 @@
 
 # Tutorial Cara Penggunaan GIT
 ## 1. Download Git, Buka Website resminya (git-scm.com)
-Sebelum memulai tutorialnya kalian download programnya terlebih dahulu
+Sebelum memulai tutorialnya kalian <b>download</b> programnya terlebih dahulu
 <img width="480" alt="ss1" src="https://user-images.githubusercontent.com/115479946/196025905-bee047ff-dcd6-4f91-b2d6-8e02773a19d2.png">
 
 ## 2. Menambahkan Global Config
