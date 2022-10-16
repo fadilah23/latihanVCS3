@@ -8,3 +8,10 @@ Sebelum memulai tutorialnya kalian download programnya terlebih dahulu
 
 ## 2. Menambahkan Global Config
 Pada saat pertama kali menggunakan git lakukanlah konfigurasi terlebih dahulu user.name dan user.email hal ini perlu dilakukan agar tidak terjadi eror pada saat kalian melakukan git commit
+### Config global Repository
+<img width="451" alt="ss2" src="https://user-images.githubusercontent.com/115479946/196026485-77a3d3bc-b413-412e-912b-c92d5ef1e010.png">
+
+## 3.Membuat akun di GIT HUB 
+<img width="960" alt="ss3" src="https://user-images.githubusercontent.com/115479946/196027344-19de759b-94bf-431c-b3e9-9a8b92f803e7.png">
+
+
