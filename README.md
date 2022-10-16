@@ -28,12 +28,12 @@ Setelah berhasil membuat akun baru dan login ke akun GitHub anda setelah itu bua
  Buatlah New Folder di Local disk kalian 
  <img width="960" alt="ss6" src="https://user-images.githubusercontent.com/115479946/196028939-426738da-ca28-4c44-88cd-0592ead69801.png">
 
- Setelah itu arahkah Git Bash pada directory file kalian 
+ Setelah itu arahkah Git Bash pada directory file kalian dengan menggunaka perintah cd /local disk/nama file kalian 
 
  <img width="452" alt="ss7" src="https://user-images.githubusercontent.com/115479946/196029167-7058d26c-bab3-432b-9222-4dfa4a7041e2.png">
 
 ## 6. Clone Repository
-Clone repository untuk mengcopy repository server secara otomatis membuat satu directory sesuai dengan nama repositorynya 
+Clone repository untuk mengcopy repository server secara otomatis membuat satu directory sesuai dengan nama repositorynya dengan menggunakan perintah git clone [url]
 
 <img width="454" alt="ss9" src="https://user-images.githubusercontent.com/115479946/196031410-b5b20f71-0092-445f-9297-e8492b263b00.png">
 
