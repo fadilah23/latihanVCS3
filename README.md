@@ -32,6 +32,9 @@ Setelah berhasil membuat akun baru dan login ke akun GitHub anda setelah itu bua
 
  <img width="452" alt="ss7" src="https://user-images.githubusercontent.com/115479946/196029167-7058d26c-bab3-432b-9222-4dfa4a7041e2.png">
 
+## 6. Menambahkan file baru pada Repository
+- Untuk menambahkan file yang baru saja dibuat gunakan perintah git add 
+- Lalu setelah berhasil ditambahkan untuk menyimpan perubahan yang ada kedalam repository local gunakan perintah git commit -m "Komentar "
 
-
+<img width="454" alt="ss8" src="https://user-images.githubusercontent.com/115479946/196030781-5b069f1c-62c0-4f96-87ef-cfa37868cbac.png">
 
