@@ -12,6 +12,11 @@ Pada saat pertama kali menggunakan git lakukanlah konfigurasi terlebih dahulu us
 <img width="451" alt="ss2" src="https://user-images.githubusercontent.com/115479946/196026485-77a3d3bc-b413-412e-912b-c92d5ef1e010.png">
 
 ## 3.Membuat akun di GIT HUB 
+Login ke akun Git hub anda atau jika anda belum punya Buat terlebih dahulu akun Git Hub anda dengan Sing Up dan ikuti perintahnya  
 <img width="960" alt="ss3" src="https://user-images.githubusercontent.com/115479946/196027344-19de759b-94bf-431c-b3e9-9a8b92f803e7.png">
+
+## 4. Membuat Repository Baru 
+Setelah berhasil membuat akun baru dan login ke akun GitHub anda setelah itu buat lah repository dengan mengklik "New" pada tampilan GitHub anda 
+<img width="233" alt="ss4" src="https://user-images.githubusercontent.com/115479946/196028025-274ac62b-a8dc-4330-8eaf-9da455fb20f9.png">
 
 
