@@ -19,5 +19,19 @@ Login ke akun Git hub anda atau jika anda belum punya Buat terlebih dahulu akun 
 Setelah berhasil membuat akun baru dan login ke akun GitHub anda setelah itu buat lah repository dengan mengklik "New" pada tampilan GitHub anda 
 
 <img width="233" alt="ss4" src="https://user-images.githubusercontent.com/115479946/196028025-274ac62b-a8dc-4330-8eaf-9da455fb20f9.png">
+ 
+ setelah itu kalian akan membuat nama repository kalian lalu klik creat Repository 
+
+ <img width="951" alt="ss5" src="https://user-images.githubusercontent.com/115479946/196028386-5e8870a6-03ea-4e14-9660-eaebb174900e.png">
+
+ ## 5. Membuat Folder Baru
+ Buatlah New Folder di Local disk kalian 
+ <img width="960" alt="ss6" src="https://user-images.githubusercontent.com/115479946/196028939-426738da-ca28-4c44-88cd-0592ead69801.png">
+
+ Setelah itu arahkah Git Bash pada directory file kalian 
+
+ <img width="452" alt="ss7" src="https://user-images.githubusercontent.com/115479946/196029167-7058d26c-bab3-432b-9222-4dfa4a7041e2.png">
+
+
 
 
